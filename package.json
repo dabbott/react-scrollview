@@ -1,7 +1,7 @@
 {
   "name": "react-scrollview",
   "description": "React ScrollView for web and mobile web, API-compatible with react-native",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "author": "Devin Abbott",
   "bugs": "https://github.com/dabbott/react-scrollview/issues",
